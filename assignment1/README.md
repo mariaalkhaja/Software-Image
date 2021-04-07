@@ -6,3 +6,12 @@ This project was inspired by the work of JUNKIYOSHI (https://junkiyoshi.com/open
 
 I am satisfied with the work. It is aesthetically pleasing and fun to play around with. The most challenging part was working with open frameworks. Everything would suddenly stopped working on me multiple times and the resolving process was different each time. In the end, I managed to achieve what I expected and atler the project into my own taste and apply my own rules. 
 
+## Snippets
+
+![Screenshot (80)](https://user-images.githubusercontent.com/38201407/113941976-28203f00-9811-11eb-9ff7-00db00b3ac9f.png)
+
+![Screenshot (81)](https://user-images.githubusercontent.com/38201407/113941983-2a829900-9811-11eb-90f3-00c94f917cc8.png)
+
+![Screenshot (82)](https://user-images.githubusercontent.com/38201407/113941992-2bb3c600-9811-11eb-906d-6854c17e1d5f.png)
+
+
