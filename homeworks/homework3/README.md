@@ -1,6 +1,6 @@
 # Homework 3
 
-I created a [hynotizing swril](https://youtu.be/Kp5T4zcIueg).
+I created a [hypnotizing swril](https://youtu.be/Kp5T4zcIueg).
 
 When the program runs, "you will be hypnotized" gets printed on the screen. I downloaded a fond for the text. Each word is printed 2 seconds after the word before it, and is printed 36 times around a circle but only one of the repitions is highlighted in red. The words keep roataing around the circle. The transparency slowly fades off from each word to the next. 
 
