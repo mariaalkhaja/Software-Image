@@ -50,7 +50,6 @@ void ofApp::draw() {
         for (int i = 0; i < 360; i += 10) {
             ofPushMatrix();
             ofTranslate(ofGetWidth() / 2, ofGetHeight() / 2);
-            //ofRotateDeg((ofGetSeconds() * 6) - 90);
             ofRotateDeg((d * 6));
             ofRotateDeg(i - 30);
             font.drawString("be", 210, 0);
@@ -64,8 +63,6 @@ void ofApp::draw() {
         for (int i = 0; i < 360; i += 10) {
             ofPushMatrix();
             ofTranslate(ofGetWidth() / 2, ofGetHeight() / 2);
-            //ofRotateDeg((ofGetSeconds() * 6) - 90);
-            //ofSetFrameRate(3);
             ofRotateDeg((d * 9) + 60);
             ofRotateDeg(i);
             font.drawString("hypnotized", 250, 0);
