@@ -6,7 +6,6 @@ For my second I assignment, I opted to play with sound. I generated an audio vis
 ![Screenshot (112)](https://user-images.githubusercontent.com/38201407/115240091-7813d580-a130-11eb-8c34-f6484f4f7852.png)
 ![Screenshot (105)](https://user-images.githubusercontent.com/38201407/115240115-7d712000-a130-11eb-9c4f-253828f2eefc.png)
 ![Screenshot (120)](https://user-images.githubusercontent.com/38201407/115240122-7f3ae380-a130-11eb-98ff-a8ef67a622a9.png)
-![Screenshot (121)](https://user-images.githubusercontent.com/38201407/115240128-8104a700-a130-11eb-82c9-fb123d4d2f94.png)
 
 
 Then, when the beat goes to its extremest, the visual shifts to two people dancing. The mosaic circles dance from one color to the next while the two dancers dance together agaisnt the beat. 
