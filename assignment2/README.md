@@ -13,7 +13,7 @@ Then, when the beat goes to its extremest, the visual shifts to two people danci
 ![Screenshot (99)](https://user-images.githubusercontent.com/38201407/115237257-6aa91c00-a12d-11eb-9ba6-c83b90b1c38c.png)
 
 ## Inspiration
-I found the audio visualizers presented in class very fascinating and engaging on a higher level than visuals presented without sound. We are using two senses rather than one, which makes us more aware and attentive. 
+I found the audio visualizers presented in class very fascinating and engaging on a higher level than visuals presented without sound. We are using two senses rather than one, which makes us more aware and attentive. It made me really want to play around with sound and experiment with it. 
 
 ## Process
 Since we have not covered working with sound much in class, I was intimdated about going down that path. However, with a few youtube tutorials, a good amount of errors, lots of debugging and experimenting, I managed to get what I wanted. I downloaded sounds which would sound upbeat when played together. I played around with generatinf different shapes in different patterns and colors which kept adusting and adjusting until I was satisfied with how they looked, how well the matched the increasing beat, and how smooth/harsh the trasition is from one pattern to the next. 
