@@ -209,7 +209,7 @@ void ofApp::draw(){
 					ofSetColor(color);
 
 				float brightness = color.getBrightness(); // set brightness based on color brightness 
-				float radius = ofMap(brightness, 0, 255, 0, 8);
+				float radius = ofMap(brightness, 0, 255, 0, 8); // set radius based on brightness remaped between 0-8
 
 				ofDrawCircle(i, j, radius); // draw mosaic circles 
 			}
