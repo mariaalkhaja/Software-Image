@@ -18,4 +18,5 @@ class ofApp : public ofBaseApp{
 	float* fft;
 	float* soundSpectrum;
 	int bands;
+	float decay;
 };
