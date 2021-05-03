@@ -8,9 +8,11 @@ If we click on the right-most door, the screen turnes black and ET by Katy Perry
 ![Screenshot (132)](https://user-images.githubusercontent.com/38201407/116864054-4a428c80-ac18-11eb-9f09-c7801e22e35d.png)
 
 The middle door has a beat playing in the background at half the volume and a background changing color. There are 8 squares, and each gets darker and plays a sound effect when the mouse is hovered over it.
+
 ![Screenshot (128)](https://user-images.githubusercontent.com/38201407/116863526-7c9fba00-ac17-11eb-869c-092029ffdc8e.png)
 
 The left-most door plays the French song Derniere Dance by Indila. A mosiac of a video of girl ballet dancing with the Eiffel tower behind her plays on the screen.
+
 ![Screenshot (129)](https://user-images.githubusercontent.com/38201407/116863562-8cb79980-ac17-11eb-9ad4-7d12b26a5a61.png)
 
 ## Reflection
