@@ -1,3 +1,7 @@
+# Virtual Interactive Museum
+
+For my final assignment, I decided to create a [virtual museum](https://youtu.be/nmv4-_SnzEo). The program starts with a glitch and a loading screen, giving it an achrival effect. It then shifts to the main menu scene, which consists of clouds and three doors. Whenever the mouse is hovered over a door, a knocking sound plays.
+
 ![Screenshot (127)](https://user-images.githubusercontent.com/38201407/116863508-77db0600-ac17-11eb-9b98-316364ac6c8f.png)
 
 
